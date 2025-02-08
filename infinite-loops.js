@@ -1,0 +1,3 @@
+// What are infinite loops? Infinite loops can occurs in a while-loop or do-while-loop, this happens when the condition you define is always true this will lead to the code block being repeatedly executed without being terminated and will lead to your program crashing.
+
+// How can you prevent infinite loops? To prevent infinite loops in your for loop, while loop, or do-while loop you need to make sure there is a step condition that is continually being updated so that for every execution of the code block you are getting closer to the condition being terminated.
