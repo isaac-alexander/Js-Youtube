@@ -97,3 +97,8 @@ for (let element of arr) {
     console.log(element);
     
 }
+
+// Break and Continue
+// What is the break keyword used for? The break keyword is used when dealing with control flow in for Loops or in Switch-Case statements, so when JavaScript encounters the break statement within one of these structures, it will stop the execution for that associated for Loop or Switch-Case statement
+
+// What is the continue keyword used for? The continue keyword can be used within for Loops or while-loops, so when JavaScript encounters this keyword it will skip the current iteration of that for loop and skip on to the next iteration
