@@ -1,11 +1,11 @@
-// const person = {
-//     name: 'Steven'
-// };
+const person = {
+    name: 'Steven'
+};
 
-// console.log( person.constructor);
+console.log( person.constructor);
 
-// let newObj = {};
-// let newObj = new Object()
+let newObj = {};
+let newObj1 = new Object()
 
 new String(); // 'Steven'
 new Boolean(); // true, false
