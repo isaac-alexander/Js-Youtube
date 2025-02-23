@@ -1,0 +1,1 @@
+//Garbage Collection: The JavaScript engine has a garbage collector meaning it will self manage itself andfind the variables abd objects that are no longer being used in our program and it will intelligently free up that memory. We don't have to worry about allocating and deallocating memory for our objects.
