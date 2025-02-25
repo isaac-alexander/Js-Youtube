@@ -4,7 +4,7 @@ console.log(typeof name);
 const anotherName = new String('Joe');
 console.log(typeof anotherName);
 
-let sentence = "A new seentence.";
+let sentence = "A new sentence.";
 
 const doesIncludeNew = sentence.includes('new');
 console.log(doesIncludeNew);
