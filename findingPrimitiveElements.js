@@ -10,14 +10,14 @@ const indexOfTen = numbers.lastIndexOf(10);
 console.log(indexOfTen); //-1
 console.log(numbers[indexOfTen]); //undefined
 
-if(indexOfTen === -1) {
+if (indexOfTen === -1) {
     console.log('10 is not found in the array'); //
-    
+
 }
 
 if (!numbers.includes(10)) { // ! = not or not found
     console.log('10 is not found in the array'); // 10 is not found in the array
-    
+
 }
 
 // Finding Elements (Primitive)
